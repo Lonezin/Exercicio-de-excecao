@@ -34,6 +34,7 @@ namespace ExercicioExcecao.Entities
             {
                 throw new DomainException("It is impossible to withdraw as the amount is greater than the value in the bank");
             }
+            Balance -= amount;
         }
                 
     }
