@@ -1,0 +1,95 @@
+# Arquivos de compilação e Binários
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa]pp[Pp]ublish/
+[Bb]uild[Ll]og.*
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ferramentas de Teste
+[TestRr]esult*/
+[Tt]est[Rr]esults.xml
+
+# Arquivos de Configuração do IDE do Visual Studio
+.vs/
+*.opendb
+*.vcxproj.*
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Pacotes
+packages/
+*.nupkg
+# O diretório de backup do NuGet Packages
+!packages/build/
+!packages/repositories.config
+
+# Outros arquivos e diretórios
+_UpgradeReport_Files/
+_Backup*/
+*.mno
+*.tmp
+*.TMP
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.psess
+*.vsp
+*.swp
+*.userprefs
+*.csproj.user
+*.vbproj.user
+*.dylib
+*.pidb
+*.swp
+*.swo
+*.dll.config
+*.exe.config
+*.config
+Dockerfile.*
+
+# Arquivos de Banco de Dados SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Arquivos de Configuração de Projeto
+*.csproj
+*.vbproj
+*.fsproj
+*.dbproj
+
+# Arquivos de Configuração do Rider
+.idea/
+
+# Arquivos temporários criados pelo Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pasta node_modules
+node_modules/
+
+# Arquivos do sistema operacional OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos do sistema operacional Windows
+$RECYCLE.BIN/
+System Volume Information
+
+# Thumbnails do Windows
+Thumbs.db
